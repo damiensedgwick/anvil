@@ -1,0 +1,4 @@
+interface:
+  display_name: "Anvil"
+  short_description: "Evidence-first coding workflow"
+  default_prompt: "Use $anvil to implement this task with the full evidence-first workflow."
